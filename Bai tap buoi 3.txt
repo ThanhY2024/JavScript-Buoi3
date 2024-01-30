@@ -1,0 +1,9 @@
+Bài tập 1: 
+Viết lệnh JavaScript cho phép người dung nhập vào thông tin sau: 
+Họ tên, mã sinh viên, mã lớp. 
+Xuất ra màn hình thông tin của người đó ra màn hình bằng hàm document.write, trong đó các tiêu đề in đậm, thông tin được xuất ra sẽ là màu đen. 
+Bài tập 2: 
+Viết lệnh JavaScript Cho người dùng nhập vào năm sinh của họ, sau đó hiển thị tuổi tương ứng.
+Bài tập 3: 
+Tiếp tục bài 2, them điều kiện năm sinh nhập vào không được lớn hơn năm hiện tại.
+Hướng dẫn: Sử dụng vòng lặp do…while để yêu cầu nhập lại nếu năm sinh > năm hiện tại. 
